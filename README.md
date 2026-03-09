@@ -1,4 +1,4 @@
-REINFORCEMENT LEARNING PROJECT - GROUP 37
+# REINFORCEMENT LEARNING PROJECT - GROUP 37
 
 ## Description:
 Reinforcement Learning course project implementing and comparing several RL algorithms on the Gymnasium Blackjack environment.
