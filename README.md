@@ -5,7 +5,7 @@ Reinforcement Learning course project implementing and comparing several RL algo
 
 ## Authors:
 - Alessandro Mancuso
--
+- Mirza Redzepagic
 -
 -
 
